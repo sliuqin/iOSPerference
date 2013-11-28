@@ -1,0 +1,1 @@
+#define USERINFO_NAME @"UserInfo_name"
